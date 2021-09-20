@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSE 599P, Computing Ethics, Fall 2021
+title: UW Computing Ethics, Fall 2021
 nav_exclude: true
 seo:
   type: Course
