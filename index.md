@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: CSE 599P, Computing Ethics, Fall 2021
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Computing Ethics
 ---
 
 # {{ site.tagline }}
