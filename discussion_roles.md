@@ -6,7 +6,7 @@ description: >-
 ---
 
 
-## Discussion Roles
+# Discussion Roles
 
 
 For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses. The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the research presented in the papers. For each paper in the reading list, you will provide a short paragraph (5-10 sentences) in your own words, taking on one of the following roles (which you will also represent during discussion in class).
