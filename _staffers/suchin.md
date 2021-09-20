@@ -6,4 +6,4 @@ website: https://suchin.io
 photo: suchin.jpg
 ---
 
-I like teaching Ethics!
+Pronouns: he/him
