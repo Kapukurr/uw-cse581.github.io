@@ -1,12 +1,10 @@
 ---
-title: Introduction to Java
+title: "Sept 30: Overview and Groundwork"
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+*No Readings!*
 
-Sep 29
+<!-- Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
@@ -20,4 +18,4 @@ Oct 1
 Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **HW 1 due**{: .label .label-red } -->
