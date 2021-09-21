@@ -8,4 +8,4 @@ Quinn, M. J. (2017). [Ethics for the information age](https://drive.google.com/f
 
 **Milestone**{: .label .label-purple } [Idea Fair](https://canvas.uw.edu/courses/1434073/assignments/5890571)
 
-*No Reading Responses!*
+*No Reading Responses*
