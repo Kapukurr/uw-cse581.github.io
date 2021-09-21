@@ -12,7 +12,7 @@ All readings are required, unless they are tagged with **Optional**{: .label .la
 
 [Reading responses](https://uw-cse599p.github.io/requirements/#reading-responses-and-discussion) are also required, unless explicitly noted.
 
-Reading responses are due by **6PM the day before class**.
+Reading responses are due by **6pm the day before class**.
 
 Milestones are due before **9am on the morning of the class**.
 

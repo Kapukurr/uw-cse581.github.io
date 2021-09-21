@@ -24,7 +24,7 @@ seo:
 
 **TA:** Suchin Gururangan (sg01 at cs.washington.edu)
 
-**Time:** Tuesdays/Thursdays 10am - 11:20am
+**Time:** Tuesdays & Thursdays, 10:00am-11:20am
 
 **Location:** On Zoom (link on [Canvas](https://canvas.uw.edu/courses/1512970))
 
