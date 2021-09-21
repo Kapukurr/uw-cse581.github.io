@@ -17,7 +17,7 @@ title: CSE 599p
 tagline: Computing Ethics
 description: University of Washington, Fall 2021
 author: Suchin Gururangan and Katharina Reinecke
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://uw-cse599p.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
