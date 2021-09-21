@@ -26,7 +26,7 @@ seo:
 
 **Time:** Tuesdays/Thursdays 10am - 11:20am
 
-**Location:** On Zoom (link on Canvas)
+**Location:** On Zoom (link on [Canvas](https://canvas.uw.edu/courses/1512970))
 
 **Flexible office hours:** Email Katharina and Suchin with a few times that work for you!
 
