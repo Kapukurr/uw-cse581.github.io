@@ -12,8 +12,6 @@ All readings are required, unless they are tagged with **Optional**{: .label .la
 
 [Reading responses](https://uw-cse599p.github.io/requirements/#reading-responses-and-discussion) are also required, unless explicitly noted.
 
-Assignments towards your final project are tagged with **Milestone**{: .label .label-purple }. Check the corresponding link for more information.
-
 Reading responses are due by **6PM the day before class**.
 
 Milestones are due before **9am on the morning of the class**.
