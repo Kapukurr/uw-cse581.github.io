@@ -8,10 +8,9 @@ description: Listing of course modules and topics.
 
 The class schedule is detailed below, and is subject to change. We will announce any changes during class and on this website.
 
-All readings are required for each class, unless they are tagged with **Optional**{: .label .label-green }.
+All readings are required, unless they are tagged with **Optional**{: .label .label-green }.
 
-Reading responses are also always required, unless otherwise noted.
-
+[Reading responses](https://uw-cse599p.github.io/requirements/#reading-responses-and-discussion) are also required, unless explicitly noted.
 
 {% for module in site.modules %}
 {{ module }}
