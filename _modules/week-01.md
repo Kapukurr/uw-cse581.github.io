@@ -3,7 +3,7 @@ title: "Sept 30: Overview and Groundwork"
 ---
 
 *No Readings!*
-
+*No Reading Responses!*
 <!-- Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
