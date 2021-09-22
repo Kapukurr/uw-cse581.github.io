@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project
+title: Class Project
 description: >-
-    Course project information.
+    Class project information.
 ---
 
 # Research project and preliminary paper

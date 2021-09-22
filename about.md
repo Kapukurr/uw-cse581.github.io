@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Course Goals
 description: >-
-    Course policies and information.
+    Course goals.
 ---
 
-# About
+# Course Goals
 {:.no_toc}
 
 ## Table of contents
@@ -15,13 +15,6 @@ description: >-
 {:toc}
 
 ---
-
-## Course Summary
-
-From smart glasses invoking fears of surveillance to social media being flooded by fake news, our society increasingly bears the burden of unintended consequences of technology. As researchers of technology, data scientists, and software developers, we must be aware of the effects that technology has on society and recognize our responsibility to grapple with computer ethics.
-
-In this seminar course, we will discuss the goals of ethics, philosophical approaches to ethics, our own responsibilities, and the many kinds of ethical issues that impact technology and society today. Students will also learn different approaches to anticipating unintended consequences of technology. In a quarter-long research project, they will use these perspectives and approaches to discuss and address issues of applied technologies in areas such as artificial intelligence, user interface design, facial recognition, misinformation, accessibility, and privacy.
-
 
 ## Course type and structure
 The course is designed to be a very interactive and discussion-based seminar. There will be occasional lectures, in-class presentations, and discussions of course projects.
@@ -53,4 +46,3 @@ After taking this course, students will know:
 ## Pre-requisites and who this course is for
 
 There are no pre-requisites for this class. While the course is designed for UW CSE graduate students (in any area of CS research), I welcome any UW graduate student in related fields. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you.
-

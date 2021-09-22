@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Course Requirements
+title: Requirements and Grading
 description: >-
-    Course requirements information.
+    Course requirements and grading.
 ---
 
 # Course Requirements, Grading, and Policy
