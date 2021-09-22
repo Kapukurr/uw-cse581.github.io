@@ -1,9 +1,10 @@
 ---
-name: Katharina Reinecke
+name: Prof. Katharina Reinecke
 role: Instructor
 email: reinecke@cs.washington.edu
 website: https://homes.cs.washington.edu/~reinecke/
 photo: katharina.jpg
 ---
 
+Paul G. Allen School of Computer Science, University of Washington
 Pronouns: she/her
