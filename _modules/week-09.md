@@ -1,5 +1,5 @@
 ---
-title: "Oct 21: Feminism and Power"
+title: "Oct 28: Race"
 ---
 
 **Milestone**{: .label .label-purple } Methods Section (or similar)
