@@ -2,7 +2,7 @@
 title: "Oct 28: Race"
 ---
 
-**Milestone**{: .label .label-purple } Methods Section (or similar)
+**Milestone**{: .label .label-purple } [Methods Section (or similar)](https://canvas.uw.edu/courses/1434073/assignments/5890694)
 
 Benjamin, R. (2019). Race after technology: Abolitionist tools for the new jim code. Social Forces. (read pages [1-17](https://drive.google.com/file/d/1qK-P4LS2JhTI_RXFCEeu1yGwGjPjPFtL/view?usp=sharing))  
 
