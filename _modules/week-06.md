@@ -2,6 +2,8 @@
 title: "Oct 19: Environment"
 ---
 
+**Milestone**{: .label .label-purple } Project Proposal
+
 ["Anatomy of an AI System"](http://www.anatomyof.ai/) by Kate Crawford et al., 2018 (14 pages)
 
 Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2019). [Green AI](https://drive.google.com/file/d/1miKTKgbpFDDvU6GtfKNV5Gf3sZHofwt7/view?usp=sharing). arXiv preprint arXiv:1907.10597. (9 pages)
