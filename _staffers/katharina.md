@@ -7,4 +7,5 @@ photo: katharina.jpg
 ---
 
 Paul G. Allen School of Computer Science, University of Washington
-Pronouns: she/her
+
+*Pronouns: she/her*
