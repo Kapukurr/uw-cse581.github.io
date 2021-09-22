@@ -62,7 +62,7 @@ Each of you will serve as a discussion leader once during the term. For some cla
 
 * Read and understand the papers for that class, along with any supporting material that you think would provide helpful background. Please also read the optional readings for that day, if any.
 
-* Take on the role of a reporter (see above). This includes summarizing the key take-aways, running a background check on the authors, and preparing a few thought-provoking questions. 
+* Take on the role of a [reporter](https://uw-cse599p.github.io/discussion_roles/#reporter-aka-discussion-lead). This includes summarizing the key take-aways, running a background check on the authors, and preparing a few thought-provoking questions. 
 
 * Prepare a 2-3 minute informal talk. I recommend no slides to maximize the time for discussion, but feel free to use them if you think it helps. Do not talk longer than 3 minutes! If you have more to say, you can integrate it in the discussion later (e.g., when the discussion dies down, you can bring up another fact you found). 
 
