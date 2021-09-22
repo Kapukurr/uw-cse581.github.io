@@ -13,3 +13,5 @@ Bruckman, Amy. [“Should you believe Wikipedia?”](https://www.cc.gatech.edu/~
 
 
 **Optional**{: .label .label-green } ["Blue Feed, Red Feed"](https://graphics.wsj.com/blue-feed-red-feed/) by Jon Keegan, 2016
+
+**Optional**{: .label .label-green } [“Why Facebook can’t fix itself”](https://www.newyorker.com/magazine/2020/10/19/why-facebook-cant-fix-itself) by Andrew Marantz, The New Yorker, 2020 
