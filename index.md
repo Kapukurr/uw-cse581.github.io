@@ -58,4 +58,11 @@ In this seminar course, we will discuss the goals of ethics, philosophical appro
 * [Discussion role sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0)
 * [Grading](https://uw-cse599p.github.io/requirements/#grading)
 * [Canvas](https://canvas.uw.edu/courses/1512970)
-* [Course Inspirations](https://uw-cse599p.github.io/about/#course-inspirations)
+
+
+## Course Inspirations
+
+This syllabus was inspired by many other ethics classes offered at the UW and elsewhere, including Jared Moore and Dan Grossman’s [CSE492e](https://courses.cs.washington.edu/courses/cse492e/20au/) (UW), Casey Fiesler’s [INFO 4601](https://informationethicspolicy.wordpress.com/) (UC Boulder), Amy Bruckman’s [CS 4863](https://www.cc.gatech.edu/~asb/teaching/4863/fall2019/) (Georgia Tech), Joi Ito and Jonathan Zittrain’s [MAS.S64](https://www.media.mit.edu/courses/the-ethics-and-governance-of-artificial-intelligence/) (MIT). Thanks to Jared Moore and Dan Grossman for sharing materials and thoughts on this class!
+
+The design for our discussion roles was inspired by [this](https://colinraffel.com/blog/role-playing-seminar.html) blog post on role-playing paper-reading seminars.
+
