@@ -58,5 +58,4 @@ In this seminar course, we will discuss the goals of ethics, philosophical appro
 * [Discussion role sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0)
 * [Grading](https://uw-cse599p.github.io/requirements/#grading)
 * [Canvas](https://canvas.uw.edu/courses/1512970)
-
-
+* [Course Inspirations](https://uw-cse599p.github.io/about/#course-inspirations)
