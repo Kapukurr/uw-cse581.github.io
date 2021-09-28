@@ -37,6 +37,12 @@ seo:
 {% endfor %}
 {% endif %}
 
+## Quick Links
+
+* [Discussion role sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (We will give you access at the start of the quarter)
+* [Grading](https://uw-cse599p.github.io/requirements/#grading)
+* [Canvas](https://canvas.uw.edu/courses/1512970)
+
 ## Course Description
 
 From smart glasses invoking fears of surveillance to social media being flooded by fake news, our society increasingly bears the burden of unintended consequences of technology. As researchers of technology, data scientists, and software developers, we must be aware of the effects that technology has on society and recognize our responsibility to grapple with computer ethics.
@@ -57,6 +63,10 @@ Most lectures will be structured the following way:
     * Idea and project fairs (each team presents their projects)
     * Peer-feedback sessions on class projects
 
+## Pre-requisites and who this course is for
+
+There are no pre-requisites for this class. While the course is designed for UW CSE graduate students (in any area of CS research), I welcome any UW graduate student in related fields. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you.
+
 ## Course Details
 
 **Time:** Tuesdays & Thursdays, 10:00am-11:20am PST
@@ -67,11 +77,7 @@ Most lectures will be structured the following way:
 
 **This course is a quals course that counts towards the quals requirement in the human-facing bucket of the CSE PhD program.**
 
-## Quick Links
 
-* [Discussion role sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0)
-* [Grading](https://uw-cse599p.github.io/requirements/#grading)
-* [Canvas](https://canvas.uw.edu/courses/1512970)
 
 
 ## Course Inspirations
