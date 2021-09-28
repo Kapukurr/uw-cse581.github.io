@@ -1,6 +1,6 @@
 ---
 layout: home
-title: UW Computing Ethics, Fall 2021
+title: UW CSE Computing Ethics, Fall 2021
 nav_exclude: true
 seo:
   type: Course
