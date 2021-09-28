@@ -2,7 +2,7 @@
 layout: page
 title: Course Goals
 description: >-
-    Course goals.
+    Learning goals.
 ---
 
 # Course Goals
@@ -30,6 +30,4 @@ After taking this course, students will know:
 
 
 
-## Pre-requisites and who this course is for
 
-There are no pre-requisites for this class. While the course is designed for UW CSE graduate students (in any area of CS research), I welcome any UW graduate student in related fields. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you.
