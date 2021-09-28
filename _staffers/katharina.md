@@ -6,6 +6,4 @@ website: https://homes.cs.washington.edu/~reinecke/
 photo: katharina.jpg
 ---
 
-Paul G. Allen School of Computer Science, University of Washington
-
 *Pronouns: she/her*
