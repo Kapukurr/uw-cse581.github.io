@@ -6,5 +6,4 @@ Jo, E. S., & Gebru, T. (2020, January). [Lessons from archives: Strategies for c
 
 Barbosa, N. M., & Chen, M. (2019, May). [Rehumanized crowdsourcing: a labeling framework addressing bias and ethics in machine learning](https://drive.google.com/file/d/14nP7tYwqKPUZyhJhh5jePKRhX-HFHnRM/view?usp=sharing). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).
 
-Optional: 
-Kittur, A., Nickerson, J. V., Bernstein, M., Gerber, E., Shaw, A., Zimmerman, J., ... & Horton, J. (2013, February). [The future of crowd work](https://www.lri.fr/~mbl/ENS/CSCW/2012/papers/Kittur-CSCW13.pdf). In CSCW 2013.
+**Optional**{: .label .label-green } Kittur, A., Nickerson, J. V., Bernstein, M., Gerber, E., Shaw, A., Zimmerman, J., ... & Horton, J. (2013, February). [The future of crowd work](https://www.lri.fr/~mbl/ENS/CSCW/2012/papers/Kittur-CSCW13.pdf). In CSCW 2013.
