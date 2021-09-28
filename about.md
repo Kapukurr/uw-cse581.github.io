@@ -16,19 +16,6 @@ description: >-
 
 ---
 
-## Course type and structure
-The course is designed to be a very interactive and discussion-based seminar. There will be occasional lectures, in-class presentations, and discussions of course projects.
-
-Part of the course will require you to conduct a quarter-long research project on the topic of computer ethics, such as compiling counter data to existing datasets, conducting a technical audit, interview studies, value sensitive design analyses, or similar to quantify disparities, etc. These research projects can be done individually or in pairs (preferred). For each research project, you are required to present your results in a written paper draft and orally in class. 
-
-Most lectures will be structured the following way:
-
-* ~40 minutes of paper [discussions](https://uw-cse599p.github.io/discussion_roles/), led by a [discussion lead](https://uw-cse599p.github.io/discussion_roles/#reporter-aka-discussion-lead)
-* ~40 minutes of one of the following:
-    * an in-class activity (e.g., applying a framework for anticipating unintended consequences of technology to a specific product);
-    * A talk by an invited speaker
-    * Idea and project fairs (each team presents their projects)
-    * Peer-feedback sessions on class projects
 
 ## Learning goals
 
