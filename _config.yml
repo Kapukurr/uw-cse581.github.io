@@ -14,9 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computing Ethics (CSE 599p)
-tagline: Computing Ethics, Fall quarter 2021
-description: *Paul G. Allen School of Computer Science & Engineering*
-*University of Washington*
+tagline: Computing Ethics (Fall 2021)
+description: Paul G. Allen School of Computer Science & Engineering, University of Washington
 author: Suchin Gururangan and Katharina Reinecke
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://uw-cse599p.github.io' # the base hostname & protocol for your site, e.g. http://example.com
