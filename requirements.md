@@ -21,23 +21,24 @@ You are expected to attend and actively participate in every class session. To m
 
 ## Preparation
 
-I expect you to be well-prepared for each class. This means that you thoroughly read all assigned readings, prepare a reading response, and spend time thinking about the paper. Ideally, you will read the paper a few days before the seminar, and review it again a day before, so that there is enough time to connect the ideas from this paper to other work.
+I expect you to be well-prepared for each class. This means that you thoroughly read all assigned readings, prepare a reading response, and spend time thinking about the paper. Ideally, you will read the paper a few days before class and review it again a day before so that there is enough time to connect the ideas from this paper to other work.
 
 
 ## Reading Responses and Discussion
 
-For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses. The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the research presented in the papers. For each paper in the reading list, you will provide a short paragraph (5-10 sentences) in your own words, taking on [one of these roles](https://suchin.io/ethics599p/discussion-roles) (which you will also represent during discussion in class).
+For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses and you may pass on 3 of them for any personal or family matters, or if you have conflicting deadlines. There are no exceptions beyond this. 
 
+The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the content. For each class, you will provide a paragraph (5-10 sentences) in your own words about the papers, following one of three options as outlined below. In your reading response, please take on [one of these roles](https://uw-cse599p.github.io/discussion_roles/) which you will also represent during discussion in class.
 
-Please sign up for these roles in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0).
+Please sign up for these roles in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (we will give you edit access at the start of the quarter).
 
-The reading responses are due at **6pm on the day before each class** (to give the discussion lead some time to read through them), submitted via canvas (in the Discussions section).  The Reporter (aka discussion leader) does not have to submit a reading response that week because they will be presenting.  
+The reading responses are due at **6pm on the day before each class** (to give the discussion lead some time to read through them), submitted via [canvas]  (https://canvas.uw.edu/courses/1512970).  Students in the role of a Reporter (aka discussion leader) do not have to submit a reading response that week because they will be presenting.  
 
 
 ## Grading Responses
 
 Reading responses will be graded on a check-minus/check/check-plus scale. (1, 2, and 3 points, respectively. 
-0 points if the response is missing at the time of the deadline.) You may pass on 3 out of the 13 reading responses for any personal or family matters, or if you have conflicting deadlines. There are no exemptions beyond this. 
+0 points if the response is missing at the time of the deadline.) As noted above, you may pass on 3 out of the 13 reading responses. 
 
 * 3 points = the reading response believably represents the role you were assigned to for that week, is 5-10 sentences in length, well-written, and thought-provoking (i.e., you got some ideas from it).
 * 2 points = the reading response is not written to the role you were assigned to, is too short/long, or does not show that you have engaged with the paper. 
@@ -87,7 +88,7 @@ You should do good work in this class because you care about the project you pic
 
 ## Due dates and Late Policy
 
-Since we will be discussing each of your milestones in class, all deliverables have to be submitted before 9 am on the morning of the class. I will not be able to grant any exceptions (unless there are personal or family  emergencies), so please make sure that you plan ahead if you have conflicting deadlines. 
+Since we will be discussing each of your milestones in class, all deliverables have to be submitted before 9 am on the morning of the class. I will not be able to grant any exceptions (unless there are personal or family emergencies), so please make sure that you plan ahead if you have conflicting deadlines. 
 
 Reading responses are due by 6pm on the day before class. Late reading responses will not be graded, but you are allowed to pass on three of them as explained above. 
 
