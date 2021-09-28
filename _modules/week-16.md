@@ -8,6 +8,5 @@ Buolamwini, J., & Gebru, T. (2018, January). [Gender shades: Intersectional accu
 
 Crawford, K. (2019). [Regulate facial-recognition technology](https://drive.google.com/file/d/1dNXxASVAOh7sjfyAxm7B3k1BnPLJ350h/view?usp=sharing). Nature, 572(7771), 565-565. (1 page)
 
-Optional:
-["Excavating AI: The Politics of Training Sets for Machine Learning"](https://www.excavating.ai/) by Kate Crawford et al., 2019 (14 pages)
+**Optional**{: .label .label-green } ["Excavating AI: The Politics of Training Sets for Machine Learning"](https://www.excavating.ai/) by Kate Crawford et al., 2019 (14 pages)
 
