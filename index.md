@@ -43,6 +43,20 @@ From smart glasses invoking fears of surveillance to social media being flooded 
 
 In this seminar course, we will discuss the goals of ethics, philosophical approaches to ethics, our own responsibilities, and the many kinds of ethical issues that impact technology and society today. Students will also learn different approaches to anticipating unintended consequences of technology. In a quarter-long research project, they will use these perspectives and approaches to discuss and address issues of applied technologies in areas such as artificial intelligence, user interface design, facial recognition, misinformation, accessibility, and privacy.
 
+## Course type and structure
+The course is designed to be a very interactive and discussion-based seminar. There will be occasional lectures, in-class presentations, and discussions of course projects.
+
+Part of the course will require you to conduct a quarter-long research project on the topic of computer ethics, such as compiling counter data to existing datasets, conducting a technical audit, interview studies, value sensitive design analyses, or similar to quantify disparities, etc. These research projects should be done in pairs. For each research project, you are required to present your results in a written paper draft and orally in class. 
+
+Most lectures will be structured the following way:
+
+* ~40 minutes of paper [discussions](https://uw-cse599p.github.io/discussion_roles/), led by a [discussion lead](https://uw-cse599p.github.io/discussion_roles/#reporter-aka-discussion-lead)
+* ~40 minutes of one of the following:
+    * an in-class activity (e.g., applying a framework for anticipating unintended consequences of technology to a specific product);
+    * A talk by an invited speaker
+    * Idea and project fairs (each team presents their projects)
+    * Peer-feedback sessions on class projects
+
 ## Course Details
 
 **Time:** Tuesdays & Thursdays, 10:00am-11:20am PST
