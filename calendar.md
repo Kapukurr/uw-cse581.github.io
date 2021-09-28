@@ -6,7 +6,7 @@ description: Listing of course modules and topics.
 
 # Calendar
 
-The class schedule is detailed below, and is subject to change. We will announce any changes during class and on Canvas.
+The class schedule is detailed below, and is subject to change. We will communicate any changes in class.
 
 All readings are required, unless they are tagged with **Optional**{: .label .label-green }.
 
