@@ -26,36 +26,7 @@ I expect you to be well-prepared for each class. This means that you thoroughly 
 
 ## Reading Responses and Discussion
 
-For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses and you may pass on 3 of them for any personal or family matters, or if you have conflicting deadlines. There are no exceptions beyond this. 
-
-The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the content. For each class, you will provide a paragraph (5-10 sentences) in your own words about the papers, following one of three options as outlined below. In your reading response, please take on [one of these roles](https://uw-cse599p.github.io/discussion_roles/) which you will also represent during discussion in class.
-
-Please sign up for these roles in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (we will give you edit access at the start of the quarter).
-
-The reading responses are due at **6pm on the day before each class** (to give the discussion lead some time to read through them), submitted via [canvas]  (https://canvas.uw.edu/courses/1512970).  Students in the role of a Reporter (aka discussion leader) do not have to submit a reading response that week because they will be presenting.  
-
-
-## Grading Responses
-
-Reading responses will be graded on a check-minus/check/check-plus scale. (1, 2, and 3 points, respectively. 
-0 points if the response is missing at the time of the deadline.) As noted above, you may pass on 3 out of the 13 reading responses. 
-
-* 3 points = the reading response believably represents the role you were assigned to for that week, is 5-10 sentences in length, well-written, and thought-provoking (i.e., you got some ideas from it).
-* 2 points = the reading response is not written to the role you were assigned to, is too short/long, or does not show that you have engaged with the paper. 
-* 1 point = the reading response is lacking two or more of the above requirements.
-* 0 points = no submission
-
-The following reading responses will be equally graded:
-* Option 1: One paragraph that discusses all readings for that day in accordance with the role you were assigned to.  
-* Option 2: One paragraph that mainly discusses one of the readings for that day in accordance with your role, but briefly connects it to the other readings of that day. 
-* Option 3: A single paragraph in which you respond to someone else’s reading response from the same day. 
-
-This obviously means that you will have to wait until someone else has provided a reading response, so it won’t work that everyone picks this option. 
-
-As a general rule: When in doubt, **please ask me!** Send me an email and I will look at the response. 
-
-Also as a general rule: The reading response is mainly there to help you remember the paper and to help the discussion leader summarize different views.
-
+For each class, you should write a reading response as detailed [on this page](https://uw-cse599p.github.io/readingresponses/), taking on [one of these roles](https://uw-cse599p.github.io/discussion_roles/). You will represent the same role during discussion in class. You should be in each role at least once during the quarter. 
 
 ## Leading Discussions
 
@@ -69,13 +40,11 @@ Each of you will serve as a discussion leader once during the term. For some cla
 
 * Lead a ~30 minutes discussion after your talk. To keep the discussion going, read all reading responses by the other students and integrate them into the discussion. For each topic, you should prepare 4-5 discussion  questions about the papers or overall topic. These must not be trivial questions with easy answers, but creative, deeper questions that result from your attempts to understand the material, or its implications, or its connections with other work. The quality and originality of your questions will reflect your effort in thinking about the material.
 
-
-
 ## Grading
 
 You should do good work in this class because you care about the project you picked, because you want to learn how to design effective online experiments, and because you want to advance research. That said, the university makes us use grades, so here is how I will assess your grades:
 
-* 15% Reading responses
+* 15% Reading responses (see [this page](https://uw-cse599p.github.io/readingresponses/) for how they are being graded)
 * 15% In-class contributions
 * 10% Discussion lead
 * 60% Research project and paper:
