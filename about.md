@@ -5,14 +5,6 @@ description: >-
     Learning goals.
 ---
 
-# Learning Goals
-{:.no_toc}
-
-1. TOC
-{:toc}
-
----
-
 
 ## Learning goals
 
