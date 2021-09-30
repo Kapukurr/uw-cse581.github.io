@@ -3,6 +3,7 @@ layout: page
 title: Class Project
 description: >-
     Class project information.
+nav_order: 4
 ---
 
 # Research project and preliminary paper
