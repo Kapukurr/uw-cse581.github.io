@@ -9,12 +9,7 @@ description: >-
 # Discussion Roles
 
 
-For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses. The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the research presented in the papers. For each paper in the reading list, you will provide a short paragraph (5-10 sentences) in your own words, taking on one of the following roles (which you will also represent during discussion in class).
-
-
-Please sign up for these roles in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0).
-
-**Note:** Not all papers are suitable for these roles. For some, you may have to think of a hypothetical scenario or technology and discuss the paper through that lens. Feel free to be creative in your take on these roles as we’re testing out this new approach this quarter :) 
+We will use the following roles for reading responses and in-class discussions: 
 
 
 ### <img src="{{ site.baseurl }}/assets/images/reporter.jpg" width="60" height="60" alt="">&nbsp;&nbsp;Reporter (aka Discussion Lead) 
