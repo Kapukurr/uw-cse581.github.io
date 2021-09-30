@@ -43,6 +43,18 @@ seo:
 * [Grading](https://uw-cse599p.github.io/requirements/#grading)
 * [Canvas](https://canvas.uw.edu/courses/1512970)
 
+
+## Course Details
+
+**Time:** Tuesdays & Thursdays, 10:00am-11:20am PST
+
+**Location:** CSE2 271
+
+**Flexible office hours:** Email Katharina and Suchin with a few times that work for you! Office hours and any meetings outside of class will be held via Zoom.
+
+**This course is a quals course that counts towards the quals requirement in the human-facing bucket of the CSE PhD program.**
+
+
 ## Course Description
 
 From smart glasses invoking fears of surveillance to social media being flooded by fake news, our society increasingly bears the burden of unintended consequences of technology. As researchers of technology, data scientists, and software developers, we must be aware of the effects that technology has on society and recognize our responsibility to grapple with computer ethics.
@@ -63,21 +75,21 @@ Most lectures will be structured the following way:
     * Idea and project fairs (each team presents their projects)
     * Peer-feedback sessions on class projects
 
+
+## Learning goals
+
+After taking this course, students will know: 
+
+* The appropriate terminology to discuss and think critically about technology; 
+* Goals and philosophical approaches to ethics and how to apply these in multifaceted discussions of technology; 
+* The key literature on societal and environmental unintended consequences of technology; 
+* Our responsibilities as researchers in a variety of fields; 
+* How to apply tools and strategies for anticipating unintended consequences of technology, such as technical audits, tarot cards of tech, value sensitive design analyses, the delphi method, etc. 
+* How to conduct a research project on the topic of computer ethics to gain a deep understanding of ethical issues surrounding a specific technology. 
+
 ## Pre-requisites and who this course is for
 
 There are no pre-requisites for this class. While the course is designed for UW CSE graduate students (in any area of CS research), I welcome any UW graduate student in related fields. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you.
-
-## Course Details
-
-**Time:** Tuesdays & Thursdays, 10:00am-11:20am PST
-
-**Location:** CSE2 271
-
-**Flexible office hours:** Email Katharina and Suchin with a few times that work for you! Office hours and any meetings outside of class will be held via Zoom.
-
-**This course is a quals course that counts towards the quals requirement in the human-facing bucket of the CSE PhD program.**
-
-
 
 
 ## Course Inspirations
