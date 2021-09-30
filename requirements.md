@@ -3,6 +3,7 @@ layout: page
 title: Requirements and Grading
 description: >-
     Course requirements and grading.
+nav_order: 5
 ---
 
 # Course Requirements, Grading, and Policy
