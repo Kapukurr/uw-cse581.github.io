@@ -13,7 +13,7 @@ nav_order: 2
 
 For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses and you may pass on 3 of them for any personal or family matters, or if you have conflicting deadlines. There are no exceptions beyond this. 
 
-The reading responses are due at **6pm on the day before each class** (to give the discussion lead some time to read through them), submitted via [canvas]  (https://canvas.uw.edu/courses/1512970) in the Discussion section.  Students in the role of a Reporter (aka discussion leader) do not have to submit a reading response that week because they will be presenting.  
+The reading responses are due at **6pm on the day before each class** (to give the discussion lead some time to read through them), submitted via [canvas](https://canvas.uw.edu/courses/1512970) in the Discussion section.  Students in the role of a Reporter (aka discussion leader) do not have to submit a reading response that week because they will be presenting.  
 
 ## Format of Reading Responses
 The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the content. For each class, you will provide a paragraph (5-10 sentences) in your own words about the papers, following one of three options as outlined below. In your reading response, please take on [one of these roles](https://uw-cse599p.github.io/discussion_roles/) which you will also represent during discussion in class.
