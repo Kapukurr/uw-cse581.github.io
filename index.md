@@ -39,7 +39,7 @@ seo:
 
 ## Quick Links
 
-* [Discussion role sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (We will give you access at the start of the quarter)
+* [Discussion lead sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (We will give you access at the start of the quarter)
 * [Grading](https://uw-cse599p.github.io/requirements/#grading)
 * [Canvas](https://canvas.uw.edu/courses/1512970)
 
