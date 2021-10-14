@@ -23,7 +23,7 @@ The goal of these reading responses is not to summarize the papers (keep in mind
 * **Option 2**: A single paragraph for all papers that summarizes all papers at a high level (e.g., a summary of the overall topic). 
 * **Option 3**: A single paragraph for all papers in the reading list for that specific day that asks 1-2 thoughtful discussion questions. 
 * **Option 4**: A single paragraph in which you respond to someone else’s reading response (e.g., discussion question) from the same day.
-* **Option 5**: A single paragraph in which you address the perspectives of, or assume, [one of these roles].
+* **Option 5**: A single paragraph in which you address the perspectives of, or assume, [one of these roles](https://uw-cse599p.github.io/discussion_roles/).
 
 <!-- 
 
