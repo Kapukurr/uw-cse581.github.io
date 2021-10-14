@@ -10,16 +10,17 @@ nav_order: 3
 # Discussion Roles
 
 
-We will use the following roles for reading responses and in-class discussions: 
+Here are some roles you may use to guide your reading responses. As a discussion lead, you may ask students to address one or more of these perspectives in class. 
 
 
-### <img src="{{ site.baseurl }}/assets/images/reporter.jpg" width="60" height="60" alt="">&nbsp;&nbsp;Reporter (aka Discussion Lead) 
+### <img src="{{ site.baseurl }}/assets/images/reporter.jpg" width="60" height="60" alt="">&nbsp;&nbsp;Reporter 
 
 
 <!-- <img src="assets/images/reporter.jpg" alt="hi" class="inline"/> -->
 
-**Note:** *no need to submit a paragraph as you will be presenting this content in class*
-
+<!-- **Note:** *no need to submit a paragraph as you will be presenting this content in class*
+ -->
+ 
 You work for a large newspaper, the Allen School Times, for which you regularly report on societal implications of technology. Prepare a very **brief summary** (1-2 sentences) of the main take-aways of each paper you are covering. Don’t just report on what the paper describes, but what its **implications** are. Next, run a **background check** on one of the paper’s authors. Where have they worked? What did they study? What previous projects might have led to working on this one? Finally, prepare **4-5 questions** about the paper(s) that will steer class discussions. Use the responses of others on Canvas to inform at least some of these questions. 
 
 ### <img src="{{ site.baseurl }}/assets/images/writing_hand.jpg" width="60" height="60" alt="">&nbsp;&nbsp;Press Intern
