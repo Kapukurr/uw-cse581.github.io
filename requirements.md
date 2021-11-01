@@ -27,7 +27,7 @@ I expect you to be well-prepared for each class. This means that you thoroughly 
 
 ## Reading Responses and Discussion
 
-For each class, you should write a reading response as detailed [on this page](https://uw-cse599p.github.io/readingresponses/), taking on [one of these roles](https://uw-cse599p.github.io/discussion_roles/). You will represent the same role during discussion in class. You should be in each role at least once during the quarter. 
+For each class, you should write a reading response as detailed [on this page](https://uw-cse599p.github.io/readingresponses/).
 
 ## Leading Discussions
 
