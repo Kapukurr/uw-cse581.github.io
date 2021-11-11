@@ -41,6 +41,14 @@ Each of you will serve as a discussion leader once during the term. For some cla
 
 * Lead a ~30 minutes discussion after your talk. To keep the discussion going, read all reading responses by the other students and integrate them into the discussion. For each topic, you should prepare 4-5 discussion  questions about the papers or overall topic. These must not be trivial questions with easy answers, but creative, deeper questions that result from your attempts to understand the material, or its implications, or its connections with other work. The quality and originality of your questions will reflect your effort in thinking about the material.
 
+## Tip for Discussion Leading
+
+* Break students up into small groups (3-4 people max)
+* Initiate discussion with example answers to the questions you pose.
+* Introduce hypothetical or real-world examples (e.g. products or recent events) to frame the discussion 
+* Tie your questions to research that you or other folks in CSE may be conducting.
+* Keep a timer!
+
 ## Grading
 
 You should do good work in this class because you care about the project you picked, because you want to learn how to design effective online experiments, and because you want to advance research. That said, the university makes us use grades, so here is how I will assess your grades:
