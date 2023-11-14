@@ -1,5 +1,5 @@
 ---
-title: "Oct 7: Ethic Codes"
+title: "Jan 11: Ethic Codes"
 ---
 
 [ACM Code of Ethics and Professional Conduct](https://ethics.acm.org/) *(skim)*
