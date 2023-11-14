@@ -1,5 +1,5 @@
 ---
-title: "Nov 30: Accountability in AI"
+title: "March 5: Accountability in AI"
 ---
 
 **Guest Speaker**{: .label .label-red } [Sabelo Mhlambi](https://cyber.harvard.edu/people/sabelo-mhlambi) on global south perspectives in AI policy and on [Ubuntu Ethics](https://ubuntuethics.com/). 
