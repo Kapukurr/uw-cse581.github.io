@@ -1,5 +1,5 @@
 ---
-title: "Nov 2: Exclusive and Evil by Design"
+title: "Feb 6: Exclusive and Evil by Design"
 ---
 
 [“Can you make an AI that isn't Ableist?”](https://www.technologyreview.com/2018/11/28/1797/can-you-make-an-ai-that-isnt-ableist/) by Shari Trewin, MIT Technology Review
