@@ -1,5 +1,5 @@
 ---
-title: "Dec 2: Roles and Responsibilities"
+title: "March 7: Roles and Responsibilities"
 ---
 
 Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020, January). [Roles for computing in social change](https://drive.google.com/file/d/1LlnD8ChzP7dOMVz0gQFNnmOKfwrzPSLl/view?usp=sharing). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260).
