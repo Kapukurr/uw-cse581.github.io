@@ -1,5 +1,5 @@
 ---
-title: "Nov 25: Thanksgiving"
+title: "Feb 29"
 ---
 
-No class, Happy Thanksgiving!
+
