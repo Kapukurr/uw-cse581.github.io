@@ -1,5 +1,5 @@
 ---
-title: "Sept 30: Overview and Groundwork"
+title: "Jan 4: Overview and Groundwork"
 ---
 
 *No readings or responses*
