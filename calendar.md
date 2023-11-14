@@ -11,7 +11,7 @@ The class schedule is detailed below, and is subject to change. We will communic
 
 All readings are required, unless they are tagged with **Optional**{: .label .label-green }.
 
-[Reading responses](https://uw-cse599p.github.io/requirements/#reading-responses-and-discussion) are also required, unless explicitly noted.
+[Reading responses](https://uw-cse581.github.io/requirements/#reading-responses-and-discussion) are also required, unless explicitly noted.
 
 Reading responses are due by **6pm the day before class**.
 
