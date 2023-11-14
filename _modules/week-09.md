@@ -1,5 +1,5 @@
 ---
-title: "Oct 28: Race"
+title: "Feb 1: Race"
 ---
 
 **Milestone**{: .label .label-purple } [Methods Section (or similar)](https://canvas.uw.edu/courses/1512970/assignments/6672481)
