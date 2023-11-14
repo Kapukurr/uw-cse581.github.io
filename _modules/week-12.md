@@ -1,5 +1,5 @@
 ---
-title: "Nov 9: Privacy"
+title: "Feb 13: Privacy"
 ---
 
 Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). [Privacy and human behavior in the age of information.](https://science.sciencemag.org/content/347/6221/509) Science, 347(6221), 509–514. 
