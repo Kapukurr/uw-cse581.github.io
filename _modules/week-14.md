@@ -1,5 +1,5 @@
 ---
-title: "Nov 16: Project Fair Round 1"
+title: "Feb 20: Project Fair Round 1"
 ---
 
 **Milestone**{: .label .label-purple } [Project Fair Round 1](https://canvas.uw.edu/courses/1512970/assignments/6672482)
