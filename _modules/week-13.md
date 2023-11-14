@@ -1,5 +1,5 @@
 ---
-title: "Nov 11: Veteran's Day"
+title: "Feb 15: Veteran's Day"
 ---
 
 *No class!*
