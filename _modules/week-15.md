@@ -1,5 +1,5 @@
 ---
-title: "Nov 18: Data Collection and Crowdsourcing"
+title: "Feb 22: Data Collection and Crowdsourcing"
 ---
 
 Jo, E. S., & Gebru, T. (2020, January). [Lessons from archives: Strategies for collecting sociocultural data in machine learning](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
