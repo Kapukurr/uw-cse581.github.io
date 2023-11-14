@@ -1,5 +1,5 @@
 ---
-title: "Nov 4: Mis-/Disinformation or Free Speech,  Platforms or Publisher?"
+title: "Feb 8: Mis-/Disinformation or Free Speech,  Platforms or Publisher?"
 ---
 
 Gillespie, T. (2018). [Custodians of the Internet: Platforms, content moderation, and the hidden decisions that shape social media.](https://drive.google.com/file/d/10ErZs8_6KcieE7xsPaIovrtPXT4pwwiZ/view?usp=sharing) Yale University Press. (read chapter 1, p. 1 - 24)
