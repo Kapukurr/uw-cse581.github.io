@@ -1,5 +1,5 @@
 ---
-title: "Oct 21: Feminism and Power"
+title: "Jan 25: Feminism and Power"
 ---
 
 
