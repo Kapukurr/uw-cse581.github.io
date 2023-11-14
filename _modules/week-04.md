@@ -1,5 +1,5 @@
 ---
-title: "Oct 12: Idea Fair"
+title: "Jan 16: Idea Fair"
 ---
 
 **Milestone**{: .label .label-purple } [Idea Fair](https://canvas.uw.edu/courses/1434073/assignments/5890571)
