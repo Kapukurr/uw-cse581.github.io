@@ -1,5 +1,5 @@
 ---
-title: "Oct 26: Postcolonial Computing and Technological Solutionism"
+title: "Jan 30: Postcolonial Computing and Technological Solutionism"
 ---
 
 **Guest Speaker**{: .label .label-red } [Kentaro Toyama](http://www.kentarotoyama.org/) (author of [Geek Heresy](https://geekheresy.org/))
