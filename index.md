@@ -1,6 +1,6 @@
 ---
 layout: home
-title: UW CSE Computing Ethics, Fall 2021
+title: UW CSE Computing Ethics, Winter 2023
 nav_exclude: true
 seo:
   type: Course
@@ -40,8 +40,8 @@ seo:
 ## Quick Links
 
 * [Discussion lead sign up sheet](https://docs.google.com/spreadsheets/u/1/d/1OFsnFdCWmfNH2_KaAchdIwk9wFVshqs3JxTu57-UuuI/edit#gid=0) (We will give you access at the start of the quarter)
-* [Grading](https://uw-cse599p.github.io/requirements/#grading)
-* [Canvas](https://canvas.uw.edu/courses/1512970)
+* [Grading](https://uw-cse581.github.io/requirements/#grading)
+* [Canvas](https://canvas.uw.edu/courses/1696045)
 
 
 ## Course Details
@@ -89,12 +89,12 @@ After taking this course, students will know:
 
 ## Pre-requisites and who this course is for
 
-There are no pre-requisites for this class. While the course is designed for UW CSE graduate students (in any area of CS research), I welcome any UW graduate student in related fields. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you.
+There are no pre-requisites for this class. The course is designed for UW CSE graduate students (in any area of CS research) who are interested in learning about ethics and how to anticipate potential undesirable consequences of computing innovations. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you. 
 
 
 ## Course Inspirations
 
 This syllabus was inspired by many other ethics classes offered at the UW and elsewhere, including Jared Moore and Dan Grossman’s [CSE492e](https://courses.cs.washington.edu/courses/cse492e/20au/) (UW), Casey Fiesler’s [INFO 4601](https://informationethicspolicy.wordpress.com/) (UC Boulder), Amy Bruckman’s [CS 4863](https://www.cc.gatech.edu/~asb/teaching/4863/fall2019/) (Georgia Tech), Joi Ito and Jonathan Zittrain’s [MAS.S64](https://www.media.mit.edu/courses/the-ethics-and-governance-of-artificial-intelligence/) (MIT). Thanks to Jared Moore, Dan Grossman, and Krzysztof Gajos for sharing materials and thoughts on this class!
 
-The design for our discussion roles was inspired by [this blog post](https://colinraffel.com/blog/role-playing-seminar.html) on role playing in seminars.
+
 
