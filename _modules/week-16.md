@@ -1,5 +1,5 @@
 ---
-title: "Nov 23: Classification Bias"
+title: "Feb 27: Classification Bias"
 ---
 
 Buolamwini, J., & Gebru, T. (2018, January). [Gender shades: Intersectional accuracy disparities in commercial gender classification.](https://drive.google.com/file/d/1VRONFLJ9M9vhTaZLenoR8kUoStlxBXIY/view?usp=sharing) In Conference on fairness, accountability and transparency (pp. 77-91).
