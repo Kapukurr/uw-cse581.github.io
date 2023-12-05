@@ -1,6 +1,6 @@
 ---
 layout: home
-title: UW CSE Computing Ethics, Winter 2023
+title: UW CSE Computing Ethics, Winter 2024 
 nav_exclude: true
 seo:
   type: Course
@@ -50,7 +50,7 @@ seo:
 
 **Location:** CSE2 271
 
-**Flexible office hours:** Email Katharina and Suchin with a few times that work for you! Office hours and any meetings outside of class will be held via Zoom.
+**Flexible office hours:** Email Katharina and Alice with a few times that work for you! Office hours and any meetings outside of class will be held via Zoom.
 
 **This course is a quals course that counts towards the quals requirement in the human-facing bucket of the CSE PhD program.**
 
