@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computing Ethics (CSE 599p)
-tagline: Computing Ethics (Fall 2021)
+title: Computing Ethics (CSE 581)
+tagline: Computing Ethics (Winter 2024)
 description: Paul G. Allen School of Computer Science & Engineering, University of Washington
-author: Suchin Gururangan and Katharina Reinecke
+author: Katharina Reinecke and Alice Guo
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://uw-cse599p.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://uw-cse581.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
-    - 'https://canvas.uw.edu/courses/1512970'
+    - 'https://canvas.uw.edu/courses/1696045'
 
 footer_content:
 
