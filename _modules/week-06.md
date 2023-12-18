@@ -2,7 +2,7 @@
 title: "Jan 23: Environment"
 ---
 
-**Milestone**{: .label .label-purple } [Project Proposal](https://canvas.uw.edu/courses/1512970/assignments/6672484)
+**Milestone**{: .label .label-purple } [Project Proposal](https://canvas.uw.edu/courses/1696045/assignments/8798318)
 
 ["Anatomy of an AI System"](http://www.anatomyof.ai/) by Kate Crawford et al., 2018 (14 pages)
 

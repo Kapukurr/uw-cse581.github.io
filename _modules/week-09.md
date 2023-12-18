@@ -2,7 +2,7 @@
 title: "Feb 1: Race"
 ---
 
-**Milestone**{: .label .label-purple } [Methods Section (or similar)](https://canvas.uw.edu/courses/1512970/assignments/6672481)
+**Milestone**{: .label .label-purple } [Methods Section (or similar)](https://canvas.uw.edu/courses/1696045/assignments/8798315)
 
 **Guest Speaker**{: .label .label-red } [Christina Harrington](https://www.christinaharrington.me/) 
 
