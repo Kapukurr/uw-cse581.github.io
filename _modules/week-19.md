@@ -1,9 +1,8 @@
 ---
-title: "March 7: Roles and Responsibilities"
+title: "March 7: Project Fair Round 2"
 ---
 
-Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020, January). [Roles for computing in social change](https://drive.google.com/file/d/1LlnD8ChzP7dOMVz0gQFNnmOKfwrzPSLl/view?usp=sharing). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260).
+**Milestone**{: .label .label-purple } [Project Fair Round 2](https://canvas.uw.edu/courses/1512970/assignments/6672483)
 
-Bruckman, A. (2020). ['Have you thought about…' talking about ethical implications of research](https://dl.acm.org/doi/fullHtml/10.1145/3377405?casa_token=kxU0LqKabNQAAAAA:6sbSnkZXk3xhqn1qkduuAoazQUXTFI4AhXgd-KSZvJVhNMFcY7Eq1ZITfv-XyTkJv22rdVTNUWk7rg). Communications of the ACM, 63(9), 38-40.
-
-**Optional**{: .label .label-green } [“Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine”](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), by Heather Murphy, The New York Times, 2017
+*Poster session + Wrap up.* 
+*No readings or responses*

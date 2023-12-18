@@ -68,7 +68,7 @@ Part of the course will require you to conduct a quarter-long research project o
 
 Most lectures will be structured the following way:
 
-* ~40 minutes of paper discussions, led by a [discussion lead](https://uw-cse599p.github.io/discussion_roles/#reporter-aka-discussion-lead)
+* ~40 minutes of paper discussions, led by a [discussion lead](https://uw-cse581.github.io/discussion_roles/#reporter-aka-discussion-lead)
 * ~40 minutes of one of the following:
     * an in-class activity (e.g., applying a framework for anticipating unintended consequences of technology to a specific product);
     * A talk by an invited speaker

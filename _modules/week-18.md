@@ -1,15 +1,9 @@
 ---
-title: "March 5: Accountability in AI"
+title: "March 5: Roles and Responsibilities"
 ---
 
-**Guest Speaker**{: .label .label-red } [Sabelo Mhlambi](https://cyber.harvard.edu/people/sabelo-mhlambi) on global south perspectives in AI policy and on [Ubuntu Ethics](https://ubuntuethics.com/). 
+Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020, January). [Roles for computing in social change](https://drive.google.com/file/d/1LlnD8ChzP7dOMVz0gQFNnmOKfwrzPSLl/view?usp=sharing). In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260).
 
-Diakopoulos, Nicholas, Sorelle Friedler, Marcelo Arenas, Solon Barocas, Michael Hay, Bill Howe, Hosagrahar Visvesvaraya Jagadish et al. [Principles for accountable algorithms and a social impact statement for algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms). FAT/ML (2017).
+Bruckman, A. (2020). ['Have you thought about…' talking about ethical implications of research](https://dl.acm.org/doi/fullHtml/10.1145/3377405?casa_token=kxU0LqKabNQAAAAA:6sbSnkZXk3xhqn1qkduuAoazQUXTFI4AhXgd-KSZvJVhNMFcY7Eq1ZITfv-XyTkJv22rdVTNUWk7rg). Communications of the ACM, 63(9), 38-40.
 
-Madaio, M. A., Stark, L., Wortman Vaughan, J., & Wallach, H. (2020, April). [Co-designing checklists to understand organizational challenges and opportunities around fairness in AI](https://dl.acm.org/doi/pdf/10.1145/3313831.3376445). In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14).
-
-Elish, Madeleine Clare. ["Moral crumple zones: Cautionary tales in human-robot interaction."](https://estsjournal.org/index.php/ests/article/view/260) Engaging Science, Technology, and Society 5 (2019): 40-60.
-
-**Optional**{: .label .label-green } [Computer says no: why making AIs fair, accountable and transparent is crucial](https://www.theguardian.com/science/2017/nov/05/computer-says-no-why-making-ais-fair-accountable-and-transparent-is-crucial#:~:text=Artificial%20intelligence%20(AI)-,Computer%20says%20no%3A%20why%20making%20AIs%20fair,accountable%20and%20transparent%20is%20crucial&text=In%20October%2C%20American%20teachers%20prevailed,test%20scores%20against%20state%20averages) by Ian Sample, The Guardian, 2017
-
-**Optional**{: .label .label-green } [From Rationality to Relationality: Ubuntu as an Ethical & Human Rights Framework for Artifical Intelligence Governance](https://carrcenter.hks.harvard.edu/publications/rationality-relationality-ubuntu-ethical-and-human-rights-framework-artificial) by Sabelo Mhlambi, 2020
+**Optional**{: .label .label-green } [“Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine”](https://www.nytimes.com/2017/10/09/science/stanford-sexual-orientation-study.html), by Heather Murphy, The New York Times, 2017

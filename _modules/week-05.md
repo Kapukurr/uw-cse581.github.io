@@ -8,5 +8,4 @@ Green, B. (2020). [Data science as political action: grounding data science in a
 
 Parvin, N., & Pollock, A. (2020). [Unintended by Design: On the Political Uses of “Unintended Consequences”.](https://drive.google.com/file/d/1FhobPIstPE4xqwGIZjEbFNE7SBrm_2pF/view?usp=sharing) Engaging Science, Technology, and Society, 6, 320-327. (7 pages)
 
-**Optional**{: .label .label-green } Green, B., & Chen, Y. (2021). [Algorithmic risk assessments can alter human decision-making processes in high-stakes government contexts.](https://www.benzevgreen.com/wp-content/uploads/2021/08/21-cscw.pdf) Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 418. 
-(33 pages)
+**Optional**{: .label .label-green } Rogaway, Phillip. ["The moral character of cryptographic work."](https://eprint.iacr.org/2015/1162.pdf) Cryptology ePrint Archive (2015).

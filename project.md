@@ -19,7 +19,7 @@ nav_order: 4
 
 ## Project description
 
-As part of this class, you will be required to produce a preliminary research paper on the topic of computer ethics. These research projects will be conducted in groups of 2 students and can be in your general area of interest or in one of the areas that we are covering in class. You will be required to discuss your project idea with the class, and make adjustments as necessary. Your project can address various topics in computer ethics, and be focused on various disciplines within CS and related fields, but it should fall into one or more of the following categories (these are action possibilities listed in the book Data Feminism by D'Ignazio and Klein): 
+As part of this class, you will be required to produce a preliminary research paper on the topic of computer ethics and present your research for a poster presentation. These research projects will be conducted in groups of 3-4 students and can be in your general area of interest or in one of the areas that we are covering in class. You will be required to discuss your project idea with the class, and make adjustments as necessary. Your project can address various topics in computer ethics, and be focused on various disciplines within CS and related fields, but it should fall into one or more of the following categories (these are action possibilities listed in the book Data Feminism by D'Ignazio and Klein): 
 
 * **Collect**: Compiling counter data (to add to existing data that may have "holes")
 * **Analyze**: Demonstrate inequitable outcomes across groups 
