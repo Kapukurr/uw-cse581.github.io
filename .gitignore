@@ -4,7 +4,7 @@
 .jekyll-metadata
 .sass-cache/
 Gemfile.lock
-_site/
+# _site/
 node_modules/
 vendor/
 .DS_Store
