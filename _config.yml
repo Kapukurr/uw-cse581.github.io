@@ -17,7 +17,7 @@ title: Computing Ethics (CSE 581)
 tagline: Computing Ethics (Winter 2024)
 description: Paul G. Allen School of Computer Science & Engineering, University of Washington
 author: Katharina Reinecke and Alice Guo
-baseurl: '' # the subpath of your site, e.g. /blog
+# baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://uw-cse581.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
