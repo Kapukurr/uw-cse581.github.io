@@ -1,0 +1,338 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Jan 4 &middot; 0 min read Welcome new students! Our office hours are listed on the course website. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"2": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": "The class schedule is detailed below, and is subject to change. We will communicate any changes in class. All readings are required, unless they are tagged with Optional. Reading responses are also required, unless explicitly noted. Reading responses are due by 6pm the day before class. Milestones are due before 9am on the morning of the class. ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"3": {
+    "doc": "Calendar",
+    "title": "Jan 4: Overview and Groundwork",
+    "content": "No readings or responses . ",
+    "url": "http://localhost:4000/calendar/#jan-4-overview-and-groundwork",
+    "relUrl": "/calendar/#jan-4-overview-and-groundwork"
+  },"4": {
+    "doc": "Calendar",
+    "title": "Jan 9: Ethical Foundations and Tools",
+    "content": "Quinn, M. J. (2017). Ethics for the information age. Pearson. (Section 2.1.-2.11) . No reading responses . ",
+    "url": "http://localhost:4000/calendar/#jan-9-ethical-foundations-and-tools",
+    "relUrl": "/calendar/#jan-9-ethical-foundations-and-tools"
+  },"5": {
+    "doc": "Calendar",
+    "title": "Jan 11: Ethic Codes",
+    "content": "ACM Code of Ethics and Professional Conduct (skim) . “Be Careful What You Code For”, Danah Boyd (2016) . Washington, A. L., &amp; Kuo, R. (2020, January). Whose side are ethics codes on? power, responsibility and the social good. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 230-240). Optional “Are we having an ethical crisis in computing?” by Moshe Y. Vardi, Communications of the ACM, 62(1), 7-7, 2019. Optional Bietti, E. (2020, January). From ethics washing to ethics bashing: a view on tech ethics from within moral philosophy. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 210-219). ",
+    "url": "http://localhost:4000/calendar/#jan-11-ethic-codes",
+    "relUrl": "/calendar/#jan-11-ethic-codes"
+  },"6": {
+    "doc": "Calendar",
+    "title": "Jan 16: Idea Fair",
+    "content": "Milestone Idea Fair . No readings or responses, but get started on those for Thursday! . ",
+    "url": "http://localhost:4000/calendar/#jan-16-idea-fair",
+    "relUrl": "/calendar/#jan-16-idea-fair"
+  },"7": {
+    "doc": "Calendar",
+    "title": "Jan 18: Data Politics",
+    "content": "Winner, L. (1980). Do artifacts have politics?. Daedalus. (15 pages) . Green, B. (2020). Data science as political action: grounding data science in a politics of justice. Available at SSRN 3658431. (~20 pages) . Parvin, N., &amp; Pollock, A. (2020). Unintended by Design: On the Political Uses of “Unintended Consequences”. Engaging Science, Technology, and Society, 6, 320-327. (7 pages) . Optional Rogaway, Phillip. “The moral character of cryptographic work.” Cryptology ePrint Archive (2015). ",
+    "url": "http://localhost:4000/calendar/#jan-18-data-politics",
+    "relUrl": "/calendar/#jan-18-data-politics"
+  },"8": {
+    "doc": "Calendar",
+    "title": "Jan 23: Environment",
+    "content": "Milestone Project Proposal . “Anatomy of an AI System” by Kate Crawford et al., 2018 (14 pages) . Schwartz, R., Dodge, J., Smith, N. A., &amp; Etzioni, O. (2019). Green AI. arXiv preprint arXiv:1907.10597. (9 pages) . Optional Borning, A., Friedman, B., &amp; Logler, N. (2020). The ‘invisible’ materiality of information technology. Communications of the ACM, 63(6), 57-64. Optional Rolnick, D., Donti, P. L., Kaack, L. H., Kochanski, K., Lacoste, A., Sankaran, K., … &amp; Luccioni, A. (2019). Tackling climate change with machine learning. arXiv preprint arXiv:1906.05433. Optional “Open letter to Jeff Bezos and the Amazon Board of Directors” by Amazon Employees for Climate Justice, 2019 . Optional “The Cloud is Not the Territory” by Ingrid Burrington, 2014 . ",
+    "url": "http://localhost:4000/calendar/#jan-23-environment",
+    "relUrl": "/calendar/#jan-23-environment"
+  },"9": {
+    "doc": "Calendar",
+    "title": "Jan 25: Feminism and Power",
+    "content": "D’Ignazio, C., &amp; Klein, L. F. (2020). Data feminism. MIT Press. (Read Introduction and The Power Chapter) . Os Keyes, Josephine Hoy, and Margaret Drouhard. 2019. Human-Computer Insurrection: Notes on an Anarchist HCI. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ‘19). Association for Computing Machinery, New York, NY, USA, Paper 339, 1–13. Optional “Technically Female: Women, Machines, and Hyperemployment” by Helen Hester, 2016 (10 pages) . ",
+    "url": "http://localhost:4000/calendar/#jan-25-feminism-and-power",
+    "relUrl": "/calendar/#jan-25-feminism-and-power"
+  },"10": {
+    "doc": "Calendar",
+    "title": "Jan 30: Postcolonial Computing and Technological Solutionism",
+    "content": "Mohamed, Shakir, Marie-Therese Png, and William Isaac. Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy &amp; Technology 33 (2020): 659-684. Kentaro Toyama (2015). Geek Heresy: Rescuing Social Change from the Cult of Technology, Chapter 2. Public Affairs. Listen to this podcast! (no reading response required) The Wubi Effect – a Radio Lab episode on how Chinese characters didn’t fit on a keyboard . Optional Irani, L., Vertesi, J., Dourish, P., Philip, K., &amp; Grinter, R. E. (2010, April). Postcolonial computing: a lens on design and development. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1311-1320). Optional Goodman, R., Tip, L., &amp; Cavanagh, K. (2021). There’s an app for that: Context, assumptions, possibilities and potential pitfalls in the use of digital technologies to address refugee mental health. Journal of Refugee Studies, 34(2), 2252-2274. Optional Hong Shen, Cori Faklaris, Haojian Jin, Laura Dabbish, and Jason I. Hong. 2020. ‘I Can’t Even Buy Apples If I Don’t Use Mobile Pay?’: When Mobile Payments Become Infrastructural in China. Proc. ACM Hum.-Comput. Interact. 4, CSCW2. ",
+    "url": "http://localhost:4000/calendar/#jan-30-postcolonial-computing-and-technological-solutionism",
+    "relUrl": "/calendar/#jan-30-postcolonial-computing-and-technological-solutionism"
+  },"11": {
+    "doc": "Calendar",
+    "title": "Feb 1: Race",
+    "content": "Milestone Methods Section (or similar) . Guest Speaker Christina Harrington . Benjamin, R. (2019). Race after technology: Abolitionist tools for the new jim code. Social Forces. (read pages 1-17) . Christina Harrington and Tawanna R Dillahunt. 2021. Eliciting Tech Futures Among Black Young Adults: A Case Study of Remote Speculative Co-Design. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ‘21). Association for Computing Machinery, New York, NY, USA, Article 397, 1–15. Field, A., Blodgett, S. L., Waseem, Z., &amp; Tsvetkov, Y. (2021). A Survey of Race, Racism, and Anti-Racism in NLP. arXiv preprint arXiv:2106.11410. Optional Hankerson, D., Marshall, A. R., Booker, J., El Mimouni, H., Walker, I., &amp; Rode, J. A. (2016, May). Does technology have race?. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (pp. 473-486). Optional Ogbonnaya-Ogburu, I. F., Smith, A. D., To, A., &amp; Toyama, K. (2020, April). Critical Race Theory for HCI. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-16). Optional Schlesinger, A., O’Hara, K. P., &amp; Taylor, A. S. (2018, April). Let’s talk about race: Identity, chatbots, and AI. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-14). ",
+    "url": "http://localhost:4000/calendar/#feb-1-race",
+    "relUrl": "/calendar/#feb-1-race"
+  },"12": {
+    "doc": "Calendar",
+    "title": "Feb 6: Exclusive and Evil by Design",
+    "content": "“Can you make an AI that isn’t Ableist?” by Shari Trewin, MIT Technology Review . Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., &amp; Toombs, A. L. (2018, April). The dark (patterns) side of UX design. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-14). Optional Gray, C. M., Chivukula, S. S., &amp; Lee, A. (2020, July). What Kind of Work Do” Asshole Designers” Create? Describing Properties of Ethical Concern on Reddit. In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 61-73). Optional Dark Patterns case study in The ACM Ethics Code. ",
+    "url": "http://localhost:4000/calendar/#feb-6-exclusive-and-evil-by-design",
+    "relUrl": "/calendar/#feb-6-exclusive-and-evil-by-design"
+  },"13": {
+    "doc": "Calendar",
+    "title": "Feb 8: Governance, Mis-/Disinformation, Platforms, or Publisher?",
+    "content": "Gillespie, T. (2018). Custodians of the Internet: Platforms, content moderation, and the hidden decisions that shape social media. Yale University Press. (read chapter 1, p. 1 - 24) . “Everything You Need to Know About Section 230”, The Verge, 2020. Das, Dipto, Carsten Østerlund, and Bryan Semaan. \"”Jol” or “Pani”?: How Does Governance Shape a Platform’s Identity?.” Proceedings of the ACM on Human-Computer Interaction 5, no. CSCW2 (2021): 1-25. Optional Bruckman, Amy. “Should you believe Wikipedia?” Chapter from the forthcoming Should You Believe Wikipedia? from Cambridge University Press. (17 pages) . Optional “Burnout, splinter factions and deleted posts: Unpaid online moderators struggle to manage divided communities” by Heather Kelley, The Washington Post, 2020 . Optional “Blue Feed, Red Feed” by Jon Keegan, 2016 . Optional “Why Facebook can’t fix itself” by Andrew Marantz, The New Yorker, 2020 . ",
+    "url": "http://localhost:4000/calendar/#feb-8-governance-mis-disinformation-platforms-or-publisher",
+    "relUrl": "/calendar/#feb-8-governance-mis-disinformation-platforms-or-publisher"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Feb 13: Privacy",
+    "content": "Acquisti, A., Brandimarte, L., &amp; Loewenstein, G. (2015). Privacy and human behavior in the age of information. Science, 347(6221), 509–514. “It’s Not Privacy, and It’s Not Fair” by Cynthia Dwork et al., 2013 . “Scroogled” by Cory Doctorow . Optional “Think You’re Discreet Online? Think Again” by Zeynep Tufekci, The New York Times, 2019 . ",
+    "url": "http://localhost:4000/calendar/#feb-13-privacy",
+    "relUrl": "/calendar/#feb-13-privacy"
+  },"15": {
+    "doc": "Calendar",
+    "title": "Feb 15: Project Fair Round 1",
+    "content": "Milestone Project Fair Round 1 . No readings or responses, but get started on those for Thursday! . ",
+    "url": "http://localhost:4000/calendar/#feb-15-project-fair-round-1",
+    "relUrl": "/calendar/#feb-15-project-fair-round-1"
+  },"16": {
+    "doc": "Calendar",
+    "title": "Feb 20",
+    "content": "No class, but you should meet with your group to incorporate feedback from Project Fair Round 1 . ",
+    "url": "http://localhost:4000/calendar/#feb-20",
+    "relUrl": "/calendar/#feb-20"
+  },"17": {
+    "doc": "Calendar",
+    "title": "Feb 22: Data Collection and Crowdsourcing",
+    "content": "Jo, E. S., &amp; Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316). Noopur Raval and Paul Dourish. 2016. Standing Out from the Crowd: Emotional Labor, Body Labor, and Temporal Labor in Ridesharing. In Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing (CSCW ‘16). Association for Computing Machinery, New York, NY, USA, 97–107. Optional Kittur, A., Nickerson, J. V., Bernstein, M., Gerber, E., Shaw, A., Zimmerman, J., … &amp; Horton, J. (2013, February). The future of crowd work. In CSCW 2013. Optional Barbosa, N. M., &amp; Chen, M. (2019, May). Rehumanized crowdsourcing: a labeling framework addressing bias and ethics in machine learning. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12). ",
+    "url": "http://localhost:4000/calendar/#feb-22-data-collection-and-crowdsourcing",
+    "relUrl": "/calendar/#feb-22-data-collection-and-crowdsourcing"
+  },"18": {
+    "doc": "Calendar",
+    "title": "Feb 27: Classification Bias",
+    "content": "Buolamwini, J., &amp; Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). “Do algorithms reveal sexual orientation or just expose our stereotypes?” by Blaise Aguera y Arcas et al., 2018 . Crawford, K. (2019). Regulate facial-recognition technology. Nature, 572(7771), 565-565. (1 page) . Optional “Excavating AI: The Politics of Training Sets for Machine Learning” by Kate Crawford et al., 2019 (14 pages) . ",
+    "url": "http://localhost:4000/calendar/#feb-27-classification-bias",
+    "relUrl": "/calendar/#feb-27-classification-bias"
+  },"19": {
+    "doc": "Calendar",
+    "title": "Feb 29: Accountability in AI",
+    "content": "Diakopoulos, Nicholas, Sorelle Friedler, Marcelo Arenas, Solon Barocas, Michael Hay, Bill Howe, Hosagrahar Visvesvaraya Jagadish et al. Principles for accountable algorithms and a social impact statement for algorithms. FAT/ML (2017). Madaio, M. A., Stark, L., Wortman Vaughan, J., &amp; Wallach, H. (2020, April). Co-designing checklists to understand organizational challenges and opportunities around fairness in AI. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). Elish, Madeleine Clare. “Moral crumple zones: Cautionary tales in human-robot interaction.” Engaging Science, Technology, and Society 5 (2019): 40-60. Optional Computer says no: why making AIs fair, accountable and transparent is crucial by Ian Sample, The Guardian, 2017 . Optional Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach. 2021. Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES ‘21). Association for Computing Machinery, New York, NY, USA, 368–378. ",
+    "url": "http://localhost:4000/calendar/#feb-29-accountability-in-ai",
+    "relUrl": "/calendar/#feb-29-accountability-in-ai"
+  },"20": {
+    "doc": "Calendar",
+    "title": "March 5: Roles and Responsibilities",
+    "content": "Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., &amp; Robinson, D. G. (2020, January). Roles for computing in social change. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 252-260). Bruckman, A. (2020). ‘Have you thought about…’ talking about ethical implications of research. Communications of the ACM, 63(9), 38-40. Optional “Why Stanford Researchers Tried to Create a ‘Gaydar’ Machine”, by Heather Murphy, The New York Times, 2017 . ",
+    "url": "http://localhost:4000/calendar/#march-5-roles-and-responsibilities",
+    "relUrl": "/calendar/#march-5-roles-and-responsibilities"
+  },"21": {
+    "doc": "Calendar",
+    "title": "March 7: Project Fair Round 2",
+    "content": "Milestone Project Fair Round 2 . Poster session + Wrap up. No readings or responses . ",
+    "url": "http://localhost:4000/calendar/#march-7-project-fair-round-2",
+    "relUrl": "/calendar/#march-7-project-fair-round-2"
+  },"22": {
+    "doc": "Discussion Roles",
+    "title": "Discussion Roles",
+    "content": "Here are some roles you may use to guide your reading responses. As a discussion lead, you may ask students to address one or more of these perspectives in class.   Reporter . You work for a large newspaper, the Allen School Times, for which you regularly report on societal implications of technology. Prepare a very brief summary (1-2 sentences) of the main take-aways of each paper you are covering. Don’t just report on what the paper describes, but what its implications are. Next, run a background check on one of the paper’s authors. Where have they worked? What did they study? What previous projects might have led to working on this one? Finally, prepare 4-5 questions about the paper(s) that will steer class discussions. Use the responses of others on Canvas to inform at least some of these questions.   Press Intern . You are an intern for the Allen School Times where you are asked to support efforts to report on societal implications of technology. You are given a paper or article for which you must determine where it sits in the context of previous and subsequent societal issues. Find and report on a related paper (or news article) that has uncovered a related ethical issue. Like every good intern knows, one way to do this is to look at papers that cite this current work.   CEO . You work at a company or organization developing an application or product that is discussed in one of the papers we’re reading this week. Engaging in your best ethics washing and theatre, suggest changes to the product that pay lip service to ethics but do not actually address the issue at hand. Also be sure to convince your investors and employees that your company hasn’t really done anything wrong.   Utilitarian Tech Employee . You are a tech employee with a strong belief in Rule Utilitarianism, Prepare a convincing statement to your company leadership that lays out how a technology described in one of the papers we’re reading this week should change or not change.   Kantianism Activist . You are an activist who believes that following Kantianism will rescue our society from the problems of big tech. Prepare a short statement to convince the management of a tech company of specific actions they should take in relation to one or multiple products they are developing or owning. Your statement should be related to a technology or topic in the papers we’re reading this week.   Social Contract Theory Supporter . You are a friend of the tech employee (the one who believes in Rule Utalitarianism). Over dinner, you try to convince your friend to talk to his company’s leadership to change their behavior to be more in line with social contract theory. Prepare a short statement that is related to a technology or topic in the papers we’re reading this week.   Cultural Relativist . As a friend of the CEO and a strong believer in cultural relativism, you are discussing with the CEO how a given class subject and/or technology may be seen differently by people in other countries and cultures. Pick 1-2 other countries and research what their national culture may say about their values. Alternatively, you can also pick a culture within the US, a subculture of another country, or a broader cultural tendency (for example, individualism vs. collectivism) and analyze how the subject and/or technology may be seen differently by this group of people. Prepare a short statement that would convince the CEO to reconsider prior decisions. ",
+    "url": "http://localhost:4000/discussion_roles/",
+    "relUrl": "/discussion_roles/"
+  },"23": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Computing Ethics (Winter 2024)",
+    "content": "Paul G. Allen School of Computer Science &amp; Engineering, University of Washington . ",
+    "url": "http://localhost:4000/#computing-ethics-winter-2024",
+    "relUrl": "/#computing-ethics-winter-2024"
+  },"24": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Week 0 Announcement",
+    "content": "Jan 4 &middot; 0 min read Welcome new students! Our office hours are listed on the course website. [Announcements](/announcements/){: .btn .btn-outline .fs-3 } --> ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"25": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Instructor",
+    "content": "Prof. Katharina Reinecke . reinecke@cs.washington.edu . Pronouns: she/her . ",
+    "url": "http://localhost:4000/#instructor",
+    "relUrl": "/#instructor"
+  },"26": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Teaching Assistant",
+    "content": "Alice Gao . atgao@cs.washington.edu . Pronouns: she/her . ",
+    "url": "http://localhost:4000/#teaching-assistant",
+    "relUrl": "/#teaching-assistant"
+  },"27": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Quick Links",
+    "content": ". | Discussion lead sign up sheet (We will give you access at the start of the quarter) | Grading | Canvas | . ",
+    "url": "http://localhost:4000/#quick-links",
+    "relUrl": "/#quick-links"
+  },"28": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Course Details",
+    "content": "Time: Tuesdays &amp; Thursdays, 10:00am-11:20am PST . Location: CSE2 271 . Flexible office hours: Email Katharina and Alice with a few times that work for you! Office hours and any meetings outside of class will be held via Zoom. This course is a quals course that counts towards the quals requirement in the human-facing bucket of the CSE PhD program. ",
+    "url": "http://localhost:4000/#course-details",
+    "relUrl": "/#course-details"
+  },"29": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Course Description",
+    "content": "From smart glasses invoking fears of surveillance to social media being flooded by fake news, our society increasingly bears the burden of unintended consequences of technology. As researchers of technology, data scientists, and software developers, we must be aware of the effects that technology has on society and recognize our responsibility to grapple with computer ethics. In this seminar course, we will discuss the goals of ethics, philosophical approaches to ethics, our own responsibilities, and the many kinds of ethical issues that impact technology and society today. Students will also learn different approaches to anticipating unintended consequences of technology. In a quarter-long research project, they will use these perspectives and approaches to discuss and address issues of applied technologies in areas such as artificial intelligence, user interface design, facial recognition, misinformation, accessibility, and privacy. ",
+    "url": "http://localhost:4000/#course-description",
+    "relUrl": "/#course-description"
+  },"30": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Course type and structure",
+    "content": "The course is designed to be a very interactive and discussion-based seminar. There will be occasional lectures, in-class presentations, and discussions of course projects. Part of the course will require you to conduct a quarter-long research project on the topic of computer ethics, such as compiling counter data to existing datasets, conducting a technical audit, interview studies, value sensitive design analyses, or similar to quantify disparities, etc. These research projects should be done in pairs. For each research project, you are required to present your results in a written paper draft and orally in class. Most lectures will be structured the following way: . | ~40 minutes of paper discussions, led by a discussion lead | ~40 minutes of one of the following: . | an in-class activity (e.g., applying a framework for anticipating unintended consequences of technology to a specific product); | A talk by an invited speaker | Idea and project fairs (each team presents their projects) | Peer-feedback sessions on class projects | . | . ",
+    "url": "http://localhost:4000/#course-type-and-structure",
+    "relUrl": "/#course-type-and-structure"
+  },"31": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Learning goals",
+    "content": "After taking this course, students will know: . | The appropriate terminology to discuss and think critically about technology; | Goals and philosophical approaches to ethics and how to apply these in multifaceted discussions of technology; | The key literature on societal and environmental unintended consequences of technology; | Our responsibilities as researchers in a variety of fields; | How to apply tools and strategies for anticipating unintended consequences of technology, such as technical audits, tarot cards of tech, value sensitive design analyses, the delphi method, etc. | How to conduct a research project on the topic of computer ethics to gain a deep understanding of ethical issues surrounding a specific technology. | . ",
+    "url": "http://localhost:4000/#learning-goals",
+    "relUrl": "/#learning-goals"
+  },"32": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Pre-requisites and who this course is for",
+    "content": "There are no pre-requisites for this class. The course is designed for UW CSE graduate students (in any area of CS research) who are interested in learning about ethics and how to anticipate potential undesirable consequences of computing innovations. Basically, if you produce and use data, develop technology, and are part of our society, then this course is for you. ",
+    "url": "http://localhost:4000/#pre-requisites-and-who-this-course-is-for",
+    "relUrl": "/#pre-requisites-and-who-this-course-is-for"
+  },"33": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "Course Inspirations",
+    "content": "This syllabus was inspired by many other ethics classes offered at the UW and elsewhere, including Jared Moore and Dan Grossman’s CSE492e (UW), Casey Fiesler’s INFO 4601 (UC Boulder), Amy Bruckman’s CS 4863 (Georgia Tech), Joi Ito and Jonathan Zittrain’s MAS.S64 (MIT). Thanks to Jared Moore, Dan Grossman, and Krzysztof Gajos for sharing materials and thoughts on this class! . ",
+    "url": "http://localhost:4000/#course-inspirations",
+    "relUrl": "/#course-inspirations"
+  },"34": {
+    "doc": "UW CSE Computing Ethics, Winter 2024",
+    "title": "UW CSE Computing Ethics, Winter 2024",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"35": {
+    "doc": "Class Project",
+    "title": "Research project and preliminary paper",
+    "content": " ",
+    "url": "http://localhost:4000/project/#research-project-and-preliminary-paper",
+    "relUrl": "/project/#research-project-and-preliminary-paper"
+  },"36": {
+    "doc": "Class Project",
+    "title": "Table of contents",
+    "content": ". | Project description | Examples to inspire your own research project . | Collect: Compiling counter data | Analyze: Demonstrate societal impacts, such as inequitable outcomes across groups | Imagine: Imagine the end-point not as “fairness”, but as co-liberation | Teach: How might we engage and empower newcomers to the field of computer ethics, including practitioners and researchers? | . | . ",
+    "url": "http://localhost:4000/project/#table-of-contents",
+    "relUrl": "/project/#table-of-contents"
+  },"37": {
+    "doc": "Class Project",
+    "title": "Project description",
+    "content": "As part of this class, you will be required to produce a preliminary research paper on the topic of computer ethics and present your research for a poster presentation. These research projects will be conducted in groups of 3-4 students and can be in your general area of interest or in one of the areas that we are covering in class. You will be required to discuss your project idea with the class, and make adjustments as necessary. Your project can address various topics in computer ethics, and be focused on various disciplines within CS and related fields, but it should fall into one or more of the following categories (these are action possibilities listed in the book Data Feminism by D’Ignazio and Klein): . | Collect: Compiling counter data (to add to existing data that may have “holes”) | Analyze: Demonstrate inequitable outcomes across groups | Imagine: Imagine the end-point not as “fairness”, but as co-liberation | Teach: How might we engage and empower newcomers to the field of computer ethics, including practitioners and researchers? | . My expectation for this research project is that it significantly extends previous findings in an area within CS. Your research project should be a plausible attempt at contributing a novel result. The final write-up should have the quality of a publishable paper, with the contribution being roughly that of a short paper (e.g., a workshop paper). The papers should be 4-6 pages long. This might sound short, but it’s much more difficult to write a concise and coherent story than it is to have unlimited space. Try to make one argument per sentence, and use one paragraph to zoom in on one argument. Use a template, i.e., find a paper that you particularly like and use it as a guideline on how to structure and write your own. ",
+    "url": "http://localhost:4000/project/#project-description",
+    "relUrl": "/project/#project-description"
+  },"38": {
+    "doc": "Class Project",
+    "title": "Examples to inspire your own research project",
+    "content": "Collect: Compiling counter data . | https://feminicidiosmx.crowdmap.com/ . | Jo, E. S., &amp; Gebru, T. (2020, January). Lessons from archives: strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316). | Marda, V., &amp; Narayan, S. (2020, January). Data in New Delhi’s predictive policing system. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 317-324). | Schlesinger, A., Edwards, W. K., &amp; Grinter, R. E. (2017, May). Intersectional HCI: Engaging identity through gender, race, and class. In Proceedings of the 2017 CHI conference on human factors in computing systems (pp. 5412-5427). | . Analyze: Demonstrate societal impacts, such as inequitable outcomes across groups . | How to use Value Sensitive Design/Envisioning cards: Friedman, B., &amp; Hendry, D. (2012, May). The envisioning cards: a toolkit for catalyzing humanistic and technical imaginations. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1145-1148). | More on Value Sensitive Design: Friedman, B., &amp; Hendry, D. G. (2019). Value sensitive design: Shaping technology with moral imagination. Mit Press. | Design Fiction: Noortman, Renee, Britta F. Schulte, Paul Marshall, Saskia Bakker, and Anna L. Cox. “HawkEye-Deploying a Design Fiction Probe.” In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, pp. 1-14. 2019. | VSD and Design Fiction: Ballard, Stephanie, Karen M. Chappell, and Kristen Kennedy. “Judgment call the game: Using value sensitive design and design fiction to surface ethical concerns related to technology.” In Proceedings of the 2019 on Designing Interactive Systems Conference, pp. 421-433. 2019. | A Value Sensitive Design analysis to evaluate StackOverflow’s design and its guidelines: Nigini Oliveira, Michael Muller, Nazareno Andrade, and Katharina Reinecke, “The Exchange in StackExchange: Divergences between Stack Overflow and its Culturally Diverse Participants”, Proceedings of ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2018. (uses value sensitive analysis and interviews to show that StackOverflow’s design and rules make the platform inherently less engaging for people from collectivist cultures (e.g., for some people from China) | Katharina Reinecke and Krzysztof Gajos, “Quantifying Visual Preferences Around the World”, Human Factors in Computing Systems (CHI), 2014. (quantitative analysis of website preferences showing that aesthetic appeal differs across countries, which suggests that some people will trust certain websites more than others) | August, Tal, Dallas Card, Gary Hsieh, Noah A. Smith, and Katharina Reinecke. “Explain like I am a Scientist: The Linguistic Barriers of Entry to r/science.” In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, pp. 1-12. 2020. (shows that scientific jargon can be a barrier towards engaging with science news for newcomers in the community) | Obermeyer, Z., Powers, B., Vogeli, C., &amp; Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366(6464), 447-453. (shows racial bias in health algorithms that lead to Black patients being identified for extra care only half as often as White patients) | Metaxa-Kakavouli, Danaë, Kelly Wang, James A. Landay, and Jeff Hancock. “Gender-inclusive design: Sense of belonging and bias in web interfaces.” In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, pp. 1-6. 2018. | Veinot, T. C., Mitchell, H., &amp; Ancker, J. S. (2018). Good intentions are not enough: how informatics interventions can worsen inequality. Journal of the American Medical Informatics Association, 25(8), 1080-1088. | . Imagine: Imagine the end-point not as “fairness”, but as co-liberation . | The Digital Defense Playbook, which aims to change who gets to define problems around data collection, data privacy and data security—from elites to impacted communities. The digital defense playbook is a new method that uses community-based workshops for sharing stories about data. | Binns, Reuben, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. “‘It’s Reducing a Human Being to a Percentage’ Perceptions of Justice in Algorithmic Decisions.” In Proceedings of the 2018 Chi conference on human factors in computing systems, pp. 1-14. 2018. Explores how we can and should explain decisions to users. | Bender, E. M., &amp; Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604. | Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., &amp; Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. | Vorvoreanu, M., Zhang, L., Huang, Y. H., Hilderbrand, C., Steine-Hanson, Z., &amp; Burnett, M. (2019, May). From gender biases to gender-inclusive design: An empirical investigation. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-14). What are metrics of success for evaluating co-liberated systems? | . Teach: How might we engage and empower newcomers to the field of computer ethics, including practitioners and researchers? . | How can we teach specific topics in computer science and related fields to minority populations? Local Lotto project | Moore, J. (2020, January). Towards a more representative politics in the ethics of computer science. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 414-424). | How can we teach researchers and practitioners about ethics and societal implications? Could we develop tools that could help them anticipate potential unintended consequences? (This paper provides a good overview of existing tools: Shruthi Sai Chivukula, Ziqing Li, Anne C Pivonka, Jingning Chen, and Colin M Gray. 2021. Surveying the Landscape of Ethics-Focused Design Methods. arXiv preprint arXiv:2102.08909 (2021).) | . ",
+    "url": "http://localhost:4000/project/#examples-to-inspire-your-own-research-project",
+    "relUrl": "/project/#examples-to-inspire-your-own-research-project"
+  },"39": {
+    "doc": "Class Project",
+    "title": "Class Project",
+    "content": " ",
+    "url": "http://localhost:4000/project/",
+    "relUrl": "/project/"
+  },"40": {
+    "doc": "Reading Responses",
+    "title": "Reading Responses",
+    "content": " ",
+    "url": "http://localhost:4000/readingresponses/",
+    "relUrl": "/readingresponses/"
+  },"41": {
+    "doc": "Reading Responses",
+    "title": "Overview",
+    "content": "For each class, I expect you to write a reading response for the assigned readings (with the exception of classes that are marked with an asterisk). There is a total of 13 reading responses and you may pass on 3 of them for any personal or family matters, or if you have conflicting deadlines. There are no exceptions beyond this. The reading responses are due at 6pm on the day before each class (to give the discussion lead some time to read through them), submitted via canvas in the Discussion section. Students who are leading discussion do not have to submit a reading response that week because they will be presenting. ",
+    "url": "http://localhost:4000/readingresponses/#overview",
+    "relUrl": "/readingresponses/#overview"
+  },"42": {
+    "doc": "Reading Responses",
+    "title": "Format of Reading Responses",
+    "content": "The goal of these reading responses is not to summarize the papers (keep in mind that everyone else will have already read the paper!), but to critically evaluate the content. For each class, you will provide a paragraph (5-10 sentences) in your own words about the papers, following one of three options as outlined below. In your reading response, you have the following options: . | Option 1: One paragraph per paper summarizes the contributions of the work(s), talks about potential improvements, and how one could build on it. | Option 2: A single paragraph for all papers that summarizes all papers at a high level (e.g., a summary of the overall topic). | Option 3: A single paragraph for all papers in the reading list for that specific day that asks 1-2 thoughtful discussion questions. | Option 4: A single paragraph in which you respond to someone else’s reading response (e.g., discussion question) from the same day. | Option 5: A single paragraph in which you address the perspectives of, or assume, one of these roles. If you choose this option, please clearly state whether you are assuming that role, or just addressing the perspective of that role from your own point of view. | . As a general rule: When in doubt, please ask me! Send me an email and I will look at the response. Also as a general rule: The reading response is mainly there to help you remember the paper and to help the discussion leader summarize different views. ",
+    "url": "http://localhost:4000/readingresponses/#format-of-reading-responses",
+    "relUrl": "/readingresponses/#format-of-reading-responses"
+  },"43": {
+    "doc": "Reading Responses",
+    "title": "Grading Responses",
+    "content": "Reading responses will be graded on a check-minus/check/check-plus scale. (1, 2, and 3 points, respectively. 0 points if the response is missing at the time of the deadline.) As noted above, you may pass on 3 out of the 13 reading responses. | 3 points = the reading response satisfies one of the options above, is 5-10 sentences in length, well-written, and thought-provoking (i.e., you got some ideas from it). | 2 points = the reading response is too short/long, or does not show that you have engaged with the paper. | 1 point = the reading response is lacking two or more of the above requirements. | 0 points = no submission | . The three options for reading responses mentioned above will be equally graded. ",
+    "url": "http://localhost:4000/readingresponses/#grading-responses",
+    "relUrl": "/readingresponses/#grading-responses"
+  },"44": {
+    "doc": "Requirements and Grading",
+    "title": "Course Requirements, Grading, and Policy",
+    "content": " ",
+    "url": "http://localhost:4000/requirements/#course-requirements-grading-and-policy",
+    "relUrl": "/requirements/#course-requirements-grading-and-policy"
+  },"45": {
+    "doc": "Requirements and Grading",
+    "title": "Table of contents",
+    "content": ". | Participation | Preparation | Reading Responses and Discussion | Leading Discussions | Tip for Discussion Leading | Grading | Due dates and Late Policy | Disability, Religious, and Family Accomodations | Original Work Policy and Plagiarism | . ",
+    "url": "http://localhost:4000/requirements/#table-of-contents",
+    "relUrl": "/requirements/#table-of-contents"
+  },"46": {
+    "doc": "Requirements and Grading",
+    "title": "Participation",
+    "content": "You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. ",
+    "url": "http://localhost:4000/requirements/#participation",
+    "relUrl": "/requirements/#participation"
+  },"47": {
+    "doc": "Requirements and Grading",
+    "title": "Preparation",
+    "content": "I expect you to be well-prepared for each class. This means that you thoroughly read all assigned readings, prepare a reading response, and spend time thinking about the paper. Ideally, you will read the paper a few days before class and review it again a day before so that there is enough time to connect the ideas from this paper to other work. ",
+    "url": "http://localhost:4000/requirements/#preparation",
+    "relUrl": "/requirements/#preparation"
+  },"48": {
+    "doc": "Requirements and Grading",
+    "title": "Reading Responses and Discussion",
+    "content": "For each class, you should write a reading response as detailed on this page. ",
+    "url": "http://localhost:4000/requirements/#reading-responses-and-discussion",
+    "relUrl": "/requirements/#reading-responses-and-discussion"
+  },"49": {
+    "doc": "Requirements and Grading",
+    "title": "Leading Discussions",
+    "content": "Each of you will serve as a discussion leader once during the term. For some classes, two students may be asked to lead the discussion together. Your responsibilities as a discussion leader are: . | Read and understand the papers for that class, along with any supporting material that you think would provide helpful background. Please also read the optional readings for that day, if any. | Take on the role of a reporter. This includes summarizing the key take-aways, running a background check on the authors, and preparing a few thought-provoking questions. | Prepare a 2-3 minute informal talk. I recommend no slides to maximize the time for discussion, but feel free to use them if you think it helps. Do not talk longer than 3 minutes! If you have more to say, you can integrate it in the discussion later (e.g., when the discussion dies down, you can bring up another fact you found). | Lead a ~30 minutes discussion after your talk. To keep the discussion going, read all reading responses by the other students and integrate them into the discussion. For each topic, you should prepare 4-5 discussion questions about the papers or overall topic. These must not be trivial questions with easy answers, but creative, deeper questions that result from your attempts to understand the material, or its implications, or its connections with other work. The quality and originality of your questions will reflect your effort in thinking about the material. | . ",
+    "url": "http://localhost:4000/requirements/#leading-discussions",
+    "relUrl": "/requirements/#leading-discussions"
+  },"50": {
+    "doc": "Requirements and Grading",
+    "title": "Tip for Discussion Leading",
+    "content": ". | Break students up into small groups (3-4 people max) | Initiate discussion with example answers to the questions you pose. | Introduce hypothetical or real-world examples (e.g. products or recent events) to frame the discussion | Tie your questions to research that you or other folks in CSE may be conducting. | Keep a timer! | . ",
+    "url": "http://localhost:4000/requirements/#tip-for-discussion-leading",
+    "relUrl": "/requirements/#tip-for-discussion-leading"
+  },"51": {
+    "doc": "Requirements and Grading",
+    "title": "Grading",
+    "content": "You should do good work in this class because you care about the project you picked, because you want to learn how to design effective online experiments, and because you want to advance research. That said, the university makes us use grades, so here is how I will assess your grades: . | 15% Reading responses (see this page for how they are being graded) | 15% In-class contributions | 10% Discussion lead | 60% Research project and paper: . | 5% Idea Fair | 7% Project Proposal (Abstract and Related Work section) | 8% Methods (or similar) | 15% Project Fair Round 1 | 25% Project Fair Round 2 (including final project paper) | . | . ",
+    "url": "http://localhost:4000/requirements/#grading",
+    "relUrl": "/requirements/#grading"
+  },"52": {
+    "doc": "Requirements and Grading",
+    "title": "Due dates and Late Policy",
+    "content": "Since we will be discussing each of your milestones in class, all deliverables have to be submitted before 9 am on the morning of the class. I will not be able to grant any exceptions (unless there are personal or family emergencies), so please make sure that you plan ahead if you have conflicting deadlines. Reading responses are due by 6pm on the day before class. Late reading responses will not be graded, but you are allowed to pass on three of them as explained above. ",
+    "url": "http://localhost:4000/requirements/#due-dates-and-late-policy",
+    "relUrl": "/requirements/#due-dates-and-late-policy"
+  },"53": {
+    "doc": "Requirements and Grading",
+    "title": "Disability, Religious, and Family Accomodations",
+    "content": "If you have any need and/or questions about disability or religious accommodations, please refer to university policies regarding disability accommodations or religious accommodations and feel free to contact me. For any family accomodations (e.g., child care), please do not hesitate to contact me so that we can work something out. ",
+    "url": "http://localhost:4000/requirements/#disability-religious-and-family-accomodations",
+    "relUrl": "/requirements/#disability-religious-and-family-accomodations"
+  },"54": {
+    "doc": "Requirements and Grading",
+    "title": "Original Work Policy and Plagiarism",
+    "content": "Plagiarism is the use of another person’s words or ideas without attribution to their source. In American intellectual culture, this is considered a form of cheating, dishonesty, and/or theft. At the University of Washington and in professional settings generally, plagiarism is an extremely serious matter. In your writing for this course (and in most professional settings), please paraphrase whenever possible. This helps you process and understand what you have read. If truly necessary, you can quote published work, but quotations must be clearly marked and properly attributed. You may obtain copy editing assistance, and you may discuss your ideas with others — but all substantive writing and ideas must be your own or else be explicitly attributed to another, using a citation. The exact form of the citation is not important; what matters is that you provide sufficient detail for someone else to easily relocate your source, even years later (so URLs alone are insufficient). All cases of plagiarism will be reported immediately. There will be no warnings, no second chances, no opportunity to rewrite. Consequences can range from failing the assignment (a grade of zero) or failing the course to expulsion from the University. If you have the slightest doubt about whether you are using the words or ideas of others appropriately, please ask. ",
+    "url": "http://localhost:4000/requirements/#original-work-policy-and-plagiarism",
+    "relUrl": "/requirements/#original-work-policy-and-plagiarism"
+  },"55": {
+    "doc": "Requirements and Grading",
+    "title": "Requirements and Grading",
+    "content": " ",
+    "url": "http://localhost:4000/requirements/",
+    "relUrl": "/requirements/"
+  }
+}
